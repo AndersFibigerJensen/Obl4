@@ -1,4 +1,4 @@
-from socket import *
+from  socket import *
 
 Servername="localhost"
 Serverport=2000
